@@ -1,2 +1,2 @@
-Just testing Git Pull
+Just testing Git Pull not using patch file
 1
